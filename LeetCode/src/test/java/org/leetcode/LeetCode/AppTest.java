@@ -1,4 +1,4 @@
-package org.smart4j.LeetCode;
+package org.leetcode.LeetCode;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
