@@ -16,7 +16,7 @@ import java.util.List;
  * Output: 1->1->2->3->4->4->5->6
  * 链接：https://leetcode-cn.com/problems/merge-k-sorted-lists
  */
-public class Solution_23 {
+public class Solution_023 {
 
     public ListNode mergeKLists(ListNode[] lists) {
         int length = lists.length;
